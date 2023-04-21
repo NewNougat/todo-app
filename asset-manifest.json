@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NewNougat/react_upload/static/css/main.801d0ca4.css",
-    "main.js": "/NewNougat/react_upload/static/js/main.2f9ae07a.js",
-    "index.html": "/NewNougat/react_upload/index.html",
-    "main.801d0ca4.css.map": "/NewNougat/react_upload/static/css/main.801d0ca4.css.map",
-    "main.2f9ae07a.js.map": "/NewNougat/react_upload/static/js/main.2f9ae07a.js.map"
+    "main.css": "/todo-app/static/css/main.801d0ca4.css",
+    "main.js": "/todo-app/static/js/main.2f9ae07a.js",
+    "index.html": "/todo-app/index.html",
+    "main.801d0ca4.css.map": "/todo-app/static/css/main.801d0ca4.css.map",
+    "main.2f9ae07a.js.map": "/todo-app/static/js/main.2f9ae07a.js.map"
   },
   "entrypoints": [
     "static/css/main.801d0ca4.css",
