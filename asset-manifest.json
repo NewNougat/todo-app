@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewNougat/react%20upload/static/css/main.801d0ca4.css",
+    "main.js": "/NewNougat/react%20upload/static/js/main.2f9ae07a.js",
+    "index.html": "/NewNougat/react%20upload/index.html",
+    "main.801d0ca4.css.map": "/NewNougat/react%20upload/static/css/main.801d0ca4.css.map",
+    "main.2f9ae07a.js.map": "/NewNougat/react%20upload/static/js/main.2f9ae07a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801d0ca4.css",
+    "static/js/main.2f9ae07a.js"
+  ]
+}
